@@ -1,9 +1,9 @@
-# Доповідь з теми Neo4j
-## Виконав: Іванов Родіон
+# Доповідь з теми OpenAPI(swagger+express)
+## Виконав: Уткін Владислав
 ## Група: ІО-92
 ## Контакти
-* Telegram: @sas322
-* Email: ivanovrodion.io92@gmail.com
+* Telegram: @vladyslav_utkin
+* Email: vladutkin02@gmail.com
 
 
 
