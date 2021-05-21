@@ -10,7 +10,7 @@
 ### Попереднє налаштування 
 
 1. Встановити середовище виконання [Swagger UI](https://swagger.io/tools/swagger-ui/download/)
+2. Встановити редактор [Swagger Editor](https://swagger.io/tools/swagger-editor/download/)
 
-2. Файл з усіма прикладами - [examples](./doc/examples.md)
 
 >Доповідь знаходиться [тут](./doc/OpenAPI.md)
