@@ -9,8 +9,8 @@
 
 ### Попереднє налаштування 
 
-1. Встановити середовище виконання [Neo4j](https://swagger.io/tools/swagger-ui/download/)
+1. Встановити середовище виконання [Swagger UI](https://swagger.io/tools/swagger-ui/download/)
 
 2. Файл з усіма прикладами - [examples](./doc/examples.md)
 
->Доповідь знаходиться [тут](./doc/Neo4j.md)
+>Доповідь знаходиться [тут](./doc/OpenAPI.md)
