@@ -9,7 +9,7 @@
 
 ### Попереднє налаштування 
 
-1. Встановити середовище виконання [Neo4j](https://neo4j.com/download/)
+1. Встановити середовище виконання [Neo4j](https://swagger.io/tools/swagger-ui/download/)
 
 2. Файл з усіма прикладами - [examples](./doc/examples.md)
 
