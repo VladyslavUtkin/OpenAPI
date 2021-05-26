@@ -1,7 +1,7 @@
 {
-  "name": "oas-schemas",
+  "name": "OpenAPI",
   "version": "2.0.0",
-  "description": "OpenAPI Specification",
+  "description": "",
   "author": "VladyslavUtkin",
   "license": "Apache-2.0",
   "readmeFilename": "README.md",
