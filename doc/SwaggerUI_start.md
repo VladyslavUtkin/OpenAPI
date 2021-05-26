@@ -35,7 +35,7 @@ Swagger UI - один з найпопулярніших інструментів
 
 Щоб краще зрозуміти інтерфейс Swagger, давайте розглянемо [приклад Swagger Petstore](http://petstore.swagger.io/). У прикладі Petstore сайт генерується за допомогою [Swagger UI](https://github.com/swagger-api/swagger-ui).
 
-![Petstore](img / 20.png)
+![Petstore](img/20.png)
 
 
 Кінцеві точки згруповані таким чином:
