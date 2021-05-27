@@ -6,8 +6,6 @@ info:
   termsOfService: "https://openweathermap.org/terms"
   contact:
     name: "OpenWeatherMap API"
-    url: "https://openweathermap.org/api"
-    email: "some_email@gmail.com"
   license:
     name: "CC Attribution-ShareAlike 4.0 (CC BY-SA 4.0)"
     url: "https://openweathermap.org/price"
