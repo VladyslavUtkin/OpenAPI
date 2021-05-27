@@ -1571,7 +1571,7 @@ externalDocs:
 
 ## Підсумковий результат
 
-Тепер, коли ми виконали всі кроки в керівництві OpenAPI, ми закінчили створення нашого документа специфікації OpenAPI. Підсумковий варіант специфікації тут: [openapi_openweathermap.yml](https://idratherbewriting.com/learnapidoc/docs/rest_api_specifications/openapi_openweathermap.yml)
+Тепер, коли ми виконали всі кроки в керівництві OpenAPI, ми закінчили створення нашого документа специфікації OpenAPI. Підсумковий варіант специфікації тут: [openapi_openweathermap.yml](https://github.com/VladyslavUtkin/OpenAPI/blob/master/src/openapi_openweathermap.yml)
 
 Ось як виглядає зібрана в Swagger UI специфікація:
 
